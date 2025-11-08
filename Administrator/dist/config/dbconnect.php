@@ -4,10 +4,7 @@ session_start();
 
 // $userdb='root';
 $host='localhost';
-// $passdb='';
-// $dbselect='penawaran_';
 $userdb='root';
-// $host='111.221.42.98';
 $passdb='';
 $dbselect='jagoanbox';
 $base_url="http://localhost:8080/jagoanbox/Administrator/";
